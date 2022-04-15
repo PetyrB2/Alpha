@@ -5,7 +5,7 @@ For Project Alpha
 1.Kanban Board.
 2. Risk ASsessment.
 3.Database.
-4.Jave program to interact with the database. (Buttons etc at a guess).
+4.Java program to interact with the database. (Buttons etc at a guess).
 
 
 My First aim is to make a MVP. Make sure it works then add any bells and whistles later.
